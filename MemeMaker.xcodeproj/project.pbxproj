@@ -12,6 +12,7 @@
 		0AC3D6DA2255E77A00C28071 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC3D6D82255E77A00C28071 /* Main.storyboard */; };
 		0AC3D6DC2255E77B00C28071 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AC3D6DB2255E77B00C28071 /* Assets.xcassets */; };
 		0AC3D6DF2255E77B00C28071 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC3D6DD2255E77B00C28071 /* LaunchScreen.storyboard */; };
+		0AC3D6E72255EE7800C28071 /* CaptionChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC3D6E62255EE7800C28071 /* CaptionChoice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0AC3D6DB2255E77B00C28071 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AC3D6DE2255E77B00C28071 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AC3D6E02255E77B00C28071 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AC3D6E62255EE7800C28071 /* CaptionChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionChoice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0AC3D6D42255E77A00C28071 /* AppDelegate.swift */,
 				0AC3D6D62255E77A00C28071 /* ViewController.swift */,
 				0AC3D6D82255E77A00C28071 /* Main.storyboard */,
+				0AC3D6E62255EE7800C28071 /* CaptionChoice.swift */,
 				0AC3D6DB2255E77B00C28071 /* Assets.xcassets */,
 				0AC3D6DD2255E77B00C28071 /* LaunchScreen.storyboard */,
 				0AC3D6E02255E77B00C28071 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AC3D6D72255E77A00C28071 /* ViewController.swift in Sources */,
+				0AC3D6E72255EE7800C28071 /* CaptionChoice.swift in Sources */,
 				0AC3D6D52255E77A00C28071 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
